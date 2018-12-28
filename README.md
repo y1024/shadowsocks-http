@@ -50,7 +50,7 @@
 
 请求示例：
 
-    
+ <img src="https://github.com/zhouqihao/shadowsocks-http/blob/master/image/request.png" width = "480" height = "320" style="margin-top:30px"  float="left" />   
 
 
 
