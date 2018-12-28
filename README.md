@@ -27,7 +27,7 @@
 3.http请求
 
   
-    通用参数：每次请求都要加载里面，下面表格中就不写了
+    通用参数：每次请求都要添加的参数，下面表格中就不写了
             key: 配置在/shadowsocks/config/shadowsocks.json中的http_key的值。如果key不对，下面返回结果中的code都是为-1
   
     返回结果： json字符串
